@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="jorge"></unicode>
+  <unicode value=""></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -83,7 +83,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="Mat2.t2"></unicode>
+  <unicode value="tarea"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="4"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -248,16 +248,33 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="anchors_linked_from_fields"></string>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;1. Lee los contenidos temáticos de esta semana:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Números&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Conceptos de estadística descriptiva&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Medidas de tendencia central&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Medidas de dispersión&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Gráficas: de pastel, de barras e histograma&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Probabilidad&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Ley aditiva&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; - Ley multiplicativa &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;2. Resuelve cada una de las actividades solicitadas en el “Cuadernillo de actividades 1Mat1_T2.docx”, tomando en consideración los señalamientos de la instrucción.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;3. Guarda el documento utilizando la siguiente nomenclatura:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;TuprimerapellidoTuprimernombreMat1-T2&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;Por ejemplo: si tu nombre es Lucero del Carmen Lozano Martínez, el nombre de tu documento será:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;LozanoLuceroMat1-T2&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;4. Sube tu archivo a la plataforma educativa para que sea evaluada por tu facilitador.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: verdana, geneva, sans-serif;&quot;&gt;Nota: Antes de subir tu tarea, consulta el siguiente instrumento de evaluación para corroborar que la misma cumple con los criterios solicitados.&lt;/span&gt;&lt;/p&gt;"></unicode>
+             <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;1. Lee los contenidos temáticos de esta semana:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Implicaciones éticas en el uso de la ciencia y la tecnología.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Desastres provocados por el ser humano al usar la ciencia y la tecnología.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Uso y creación de armamentos.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Conductas y enfermedades por el uso inadecuado de la tecnología.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; &lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; Principales conflictos éticos en el uso de la ciencia y la tecnología.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Ciber-delincuencia.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Uso inadecuado de las redes sociales.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Fraude, plagio científico y falta de rigor en la ciencia.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Sexting.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; &lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; Uso de la tecnología para el bien común.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;  Comunicación&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Educación&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Salud&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Inteligencia artificial&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;2. Resuelve cada una de las actividades solicitadas en el “Cuadernillo de actividades Tarea 2”, tomando en consideración los señalamientos de la instrucción.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;3. Guarda el documento sin cambiar su tipo de archivo (Word) utilizando la siguiente nomenclatura:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;TuprimerapellidoTuprimernombreÉticII-T2&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Por ejemplo: si tu nombre es Lucero del Carmen Lozano Martínez, el nombre de tu documento será:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;LozanoLuceroÉticII-T2&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;4. Sube tu archivo a la plataforma educativa para que sea evaluada por tu facilitador.&lt;/span&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -374,278 +391,93 @@ text through the text editing buttons associated with the field."></unicode>
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
              <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Nota&lt;/strong&gt;: Antes de subir tu tarea, consulta el siguiente instrumento de evaluación para corroborar que la misma cumple con los criterios solicitados.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;table border=&quot;2&quot; cellpadding=&quot;2&quot; style=&quot;border-color: #bd1515; height: 1913px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; Instrumento de evaluación &lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;border-color: #bd1515;&quot; border=&quot;2&quot; cellpadding=&quot;2&quot;&gt;
 &lt;tbody&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td colspan=&quot;2&quot; style=&quot;height: 43px; width: 679px;&quot;&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Lista de cotejo&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44.2969px;&quot;&gt;
+&lt;td colspan=&quot;2&quot; width=&quot;671&quot; style=&quot;height: 44.2969px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Lista de cotejo&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Criterio&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Criterio&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Valor en Puntos&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td colspan=&quot;2&quot; style=&quot;height: 43px; width: 679px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Actividad 1.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Valor en Puntos&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la media con los datos del primer atleta&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td colspan=&quot;2&quot; width=&quot;671&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Actividad 1.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la mediana con los datos del primer atleta&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 68px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Redactó de manera amplia y explícita lo que comprendió por globalización e impacto en su formación ética.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la moda con los datos del primer atleta&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;5 puntos&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la media con los datos del segundo atleta&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td colspan=&quot;2&quot; width=&quot;671&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Actividad 2.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la mediana con los datos del segundo atleta&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 68px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Respondió y argumentó su posicionamiento respecto de la pregunta inherente a los medios de comunicación masiva.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la moda con los datos del segundo atleta&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.6&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;5 puntos&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Justifica adecuadamente la elección del atleta, basándose en los resultados de las medidas de tendencia central&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1.4&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td colspan=&quot;2&quot; width=&quot;671&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Actividad 3.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Total de la Actividad 1&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 68px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Respondió y argumentó su posicionamiento respecto de la pregunta inherente a los valores humanos.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td colspan=&quot;2&quot; style=&quot;height: 43px; width: 679px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Actividad 2.&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 68px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;5 puntos&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente el rango&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td colspan=&quot;2&quot; width=&quot;671&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Actividad 4.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la varianza&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 116px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 116px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Elaboró un cartel mediante el cual se promueve el rescate de los valores humanos (honestidad, sensibilidad, gratitud, humildad, prudencia, respeto y responsabilidad) en los medios de comunicación masiva.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula correctamente la desviación estándar&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 116px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;5 puntos&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Total de la Actividad 2&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 44px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Actividad 5.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td colspan=&quot;2&quot; style=&quot;height: 43px; width: 679px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Actividad 3.&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 44px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula y completa correctamente la columna correspondiente a los valores en grados de la tabla&lt;/span&gt;&lt;/p&gt;
+&lt;tr style=&quot;height: 140px;&quot;&gt;
+&lt;td width=&quot;529&quot; style=&quot;height: 140px;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Redactó un texto expositivo mediante el cual explica ampliamente el contenido del cartel elaborado acerca del rescate de los valores humanos (honestidad, sensibilidad, gratitud, humildad, prudencia, respeto y responsabilidad) en los medios de comunicación masiva.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2.5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 91px;&quot;&gt;
-&lt;td style=&quot;height: 91px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Realiza el gráfico circular o de pastel de manera adecuada, ya sea mediante el uso de algún software o a mano, con papel, lápiz y juego de geometría&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 91px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2.5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Total de la Actividad 3&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td colspan=&quot;2&quot; style=&quot;height: 43px; width: 679px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Actividad 4.&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Elige la letra correcta del primer ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.25&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Elige la letra correcta del segundo ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.25&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Elige la letra correcta del tercer ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.25&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Elige la letra correcta del cuarto ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;0.25&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desarrolló y aplico correctamente las reglas de probabilidad básica para resolver el primer ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desarrolló y aplico correctamente las reglas de probabilidad básica para resolver el segundo ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desarrolló y aplico correctamente las reglas de probabilidad básica para resolver el tercer ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desarrolló y aplico correctamente las reglas de probabilidad básica para resolver el cuarto ejercicio&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Total de la Actividad 4&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Actividad 5.&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Resuelve satisfactoriamente el inciso a) utilizando las leyes de probabilidad correspondientes para cada caso&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2.5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 67px;&quot;&gt;
-&lt;td style=&quot;height: 67px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Resuelve satisfactoriamente el inciso b) utilizando las leyes de probabilidad correspondientes para cada caso&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 67px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;2.5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Total, de la Actividad 5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;5&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;height: 43px;&quot;&gt;
-&lt;td style=&quot;height: 43px; width: 529px;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;TOTAL&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;td style=&quot;height: 43px; width: 142px; text-align: center;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;25&lt;/span&gt;&lt;/p&gt;
+&lt;td width=&quot;142&quot; style=&quot;height: 140px;&quot;&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;5 puntos&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;  &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 12pt;&quot;&gt;Escala de desempeño &lt;/span&gt;&lt;/p&gt;
 &lt;table style=&quot;border-color: #bd1515;&quot; border=&quot;2&quot; cellpadding=&quot;2&quot;&gt;
 &lt;tbody&gt;
@@ -810,7 +642,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="3"></reference>
+  <reference key="10"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -841,7 +673,7 @@ text through the text editing buttons associated with the field."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="jorge"></unicode>
+    <unicode value=""></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -1103,16 +935,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="extensiontype_"></string>
         <none></none>
         <string role="key" value="string"></string>
-        <list>
-         <instance class="exe.engine.lom.lomsubs.LangStringSub">
-          <dictionary>
-           <string role="key" value="language"></string>
-           <string value="es"></string>
-           <string role="key" value="valueOf_"></string>
-           <string value="jorge"></string>
-          </dictionary>
-         </instance>
-        </list>
+        <list></list>
         <string role="key" value="uniqueElementName"></string>
         <none></none>
        </dictionary>
@@ -1127,7 +950,98 @@ text through the text editing buttons associated with the field."></unicode>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2022-10-25T17:59:02.00-05:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN: EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
@@ -1453,16 +1367,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="extensiontype_"></string>
         <none></none>
         <string role="key" value="string"></string>
-        <list>
-         <instance class="exe.engine.lom.lomsubs.LangStringSub">
-          <dictionary>
-           <string role="key" value="language"></string>
-           <string value="es"></string>
-           <string role="key" value="valueOf_"></string>
-           <string value="jorge"></string>
-          </dictionary>
-         </instance>
-        </list>
+        <list></list>
         <string role="key" value="uniqueElementName"></string>
         <none></none>
        </dictionary>
@@ -1477,7 +1382,98 @@ text through the text editing buttons associated with the field."></unicode>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2022-10-25T17:59:02.00-05:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN: EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
@@ -1639,7 +1635,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="Tarea  2 belver"></unicode>
+  <unicode value="Tarea belver 2"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
